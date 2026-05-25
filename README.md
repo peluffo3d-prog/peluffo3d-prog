@@ -1,4 +1,4 @@
-# Hola, soy Jasiielo (peluffo3d-prog) 👋
+# Hola, soy Jasiielo 👋
 
 Desarrollador full-stack de **Matanza, Argentina**. Construyo productos SaaS, bots y herramientas para negocios reales.
 
