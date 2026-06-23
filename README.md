@@ -12,7 +12,7 @@ El Netter cuesta $100. AtlasLibre cuesta $0.
 Atlas anatómico 3D completo, gratis, web-first y en español. Único competidor web de Anatomy Learning, Complete Anatomy y Anatomía Atlas 3D que no requiere descarga ni pago. Incluye 636 músculos en 3D con sistemas togglables, quiz mode, notas personales, logros, búsqueda global y links compartibles por estructura.
 
 **Stack:** Next.js · React Three Fiber · Three.js · TypeScript · Supabase · Vercel  
-**Live:** [atlas-libre.vercel.app](https://atlas-libre.vercel.app)
+**Live:** atlaslibre.app
 
 ---
 
