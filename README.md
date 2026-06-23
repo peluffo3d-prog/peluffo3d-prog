@@ -18,7 +18,7 @@ Live: [atlaslibre.app](https://atlaslibre.app)
 
 ---
 
-### 🤖 [Business Prospector](https://github.com/peluffo3d-prog) — Scraper de Leads para Negocios Locales
+### 🔎 Business Prospector — Scraper de Leads para Negocios Locales
 
 Herramienta de prospección automatizada que usa la Google Places API para encontrar negocios locales sin sitio web en cualquier zona de Argentina. Genera CSV listo para outreach con nombre, teléfono, rating y estado web de cada negocio.
 
@@ -27,7 +27,7 @@ Uso: node prospector.js --rubro "carpintería" --zona "Morón" --radio 3000
 
 ---
 
-### 💬 WhatsApp AI Agent — Bot de Atención con IA
+### 💬 [WhatsApp AI Agent](https://github.com/peluffo3d-prog/bot-whatsapp-generico) — Bot de Atención con IA
 
 Bot de atención al cliente por WhatsApp Business API (Meta oficial, no Baileys). Configuración por JSON, detección de intenciones, respeto de horarios, escalado a humano y contexto de conversación persistente. Arquitectura probada en producción para negocios argentinos.
 
@@ -67,4 +67,4 @@ Stack: Next.js · TypeScript · Supabase · PostgreSQL
 ---
 
 📍 Buenos Aires, Argentina  
-📬 [LinkedIn](https://linkedin.com) · [atlaslibre.app](https://atlaslibre.app)
+🌐 [atlaslibre.app](https://atlaslibre.app)
